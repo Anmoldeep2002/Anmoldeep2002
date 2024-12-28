@@ -10,6 +10,7 @@
 <h2>📝 Certifications</h2>
 
 - Level 3 Extended Diploma in IT (180 Credits) QCF
+- CCNA (In Progress)
 
 
 <h2> 🤳 Connect with me:</h2>
