@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Project](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
   - [CISCO Packet Tracer Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
