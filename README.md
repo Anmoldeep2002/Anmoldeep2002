@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Project](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
+- <b>Active Directory Project</b>
+  - [Installing Windows Server 2016](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
+  - [Installing Windows 10](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installing Active Directory](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
+  - [Create a Domain](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>CISCO Packet Tracer Project</b>
   - [CISCO Packet Tracer Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
