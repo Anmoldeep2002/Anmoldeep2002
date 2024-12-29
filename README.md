@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Project</b>
+  - [Active Directory: From Setup to Troubleshooting](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
   - [Installing Windows Server 2016](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
   - [Installing Windows 10](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Installing Active Directory](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
