@@ -5,8 +5,8 @@
 - <b>Active Directory Project</b>
   - [Active Directory: From Setup to Troubleshooting](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
 
-- <b>CISCO Packet Tracer Project</b>
-  - [CISCO Packet Tracer Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Networking Project</b>
+  - [Small Office Network Design and Configuration with DHCP and DNS](https://github.com/Anmoldeep2002/CISCO-Packet-Tracer-Project/tree/main)
 
 
 <h2>📝 Certifications</h2>
@@ -27,17 +27,3 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
