@@ -8,6 +8,9 @@
 - <b>Networking Project</b>
   - [Small Office Network Design and Configuration with DHCP and DNS](https://github.com/Anmoldeep2002/CISCO-Packet-Tracer-Project/tree/main)
 
+- <b>Building a Computer</b>
+  - [Disassemble & Rebuild a Desktop PC](https://github.com/Anmoldeep2002/Building-Computer)
+
 
 <h2>📝 Certifications</h2>
 
